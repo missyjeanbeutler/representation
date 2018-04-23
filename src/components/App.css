@@ -1,0 +1,16 @@
+header {
+  margin: 30px 30px 35px 30px;
+  border-bottom: 1px solid #ccc;
+  padding: 5px 0 30px 0;
+  height: 120px;
+}
+
+.app_main {
+  display: flex;
+  margin: 30px;
+}
+
+.app_error {
+  color: #e70101;
+  margin: 15px 0 0 30px;
+}

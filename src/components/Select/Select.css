@@ -1,0 +1,8 @@
+.select_container {
+  padding: 0 30px;
+  height: 20px;
+}
+
+.select_container select, button {
+  margin-right: 15px;
+}

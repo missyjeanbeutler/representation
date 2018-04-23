@@ -1,0 +1,29 @@
+.info_container {
+  margin-left: 15px;
+  width: calc(50% - 15px);
+}
+
+.info_container h2 {
+  text-align: left;
+}
+
+.info_details div {
+  background-color: #f3f3f4;
+  border-radius: 5px;
+  text-align: left;
+  padding: 0 15px;
+  margin: 20px 0;
+}
+
+.info_details div h3, p {
+  display: inline-block;
+}
+
+.info_details div:first-child {
+  margin-top: 0;
+}
+
+.info_details div p, a {
+  text-align: left;
+  padding-left: 15px;
+}

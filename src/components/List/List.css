@@ -1,0 +1,37 @@
+.list_container {
+  margin-right: 15px;
+  width: calc(50% - 15px);
+}
+
+.list_heading h2 {
+  text-align: left;
+}
+
+.list_heading h2 span {
+  color: #00a7ee;
+}
+
+.list_sub_heading, .list_results {
+  padding: 15px 80px 15px 15px;
+  height: 55px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.list_sub_heading {
+  background-color: #f8f8f9;
+}
+
+.list_results {
+  border-bottom: 1px solid #ccc;
+  cursor: pointer;
+}
+
+.list_results_none {
+  border-bottom: 1px solid #ccc;
+}
+
+.list_results p {
+  text-align: left;
+}
